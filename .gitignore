@@ -1,0 +1,8 @@
+__pycache_/_
+*.py[cod]
+*$py.class
+backups/
+venv/
+db.sqlite3
+debug.log
+nissanbotai-d7825e28da16.json
